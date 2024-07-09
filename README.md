@@ -26,7 +26,4 @@ For this project, I researched the topic of AI-driven Software Design. The objec
 - [Final Report (PDF)](link-to-AI-Driven Software Design.pdf)
 - [LaTeX Source Files](link-to-latex-source-files)
 
-## How to Use
-
-To view the final report, simply download the PDF file. If you wish to see the LaTeX source files, they are available in the corresponding directory. The assignment requirements document provides a comprehensive overview of the project's goals and evaluation criteria.
 
