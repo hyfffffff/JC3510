@@ -24,6 +24,6 @@ For this project, I researched the topic of AI-driven Software Design. The objec
 
 - [Assignment Requirements (PDF)](JC3510_Individual_Assignment.pdf)
 - [Final Report (PDF)](AI-Driven Software Design.pdf)
-- [LaTeX Source Files](latex-source-files)
+- [LaTeX Source Files](AI-Driven Software Design.tex)
 
 
